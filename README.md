@@ -11,7 +11,7 @@
 ➖➖➖➖➖➖➖➖➖➖
 
 **🔗Установка:**
-`.dlmod https://raw.githubusercontent.com/Fl1yd/FTG-Modules/master/arts.py`
+`.dlmod https://raw.githubusercontent.com/FTG-MODULES/Arts/main/Arts.py`
 
 ➖➖➖➖➖➖➖➖➖➖
 
